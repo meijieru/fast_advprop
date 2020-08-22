@@ -1,0 +1,5 @@
+tensorboardX
+matplotlib
+numpy
+torch
+torchvision
